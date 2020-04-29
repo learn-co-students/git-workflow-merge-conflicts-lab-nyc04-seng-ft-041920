@@ -251,7 +251,7 @@ When you're done the code should look something like this:
 <li class="home-blog-post">
   <div class="blog-thumb">
     <a href="students/marty_mcfly.html">
-      <img width="304" height="304" class="prof-image" src="img/students/marty_mcfly_index_profile.jpg" class="attachment-blog-thumb wp-post-image" alt="doc brown">
+      <img width="304" height="304" class="prof-image" src="img/students/marty_mcfly_index_profile.jpg" class="attachment-blog-thumb wp-post-image" alt="marty mcfly">
     </a>
   </div>
 
